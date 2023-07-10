@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "1450cd7e-ee25-4c57-871a-90bf4c4dd9fb"
+      }
+    },
+    "owner": "abdullah_awan"
   }
 }
